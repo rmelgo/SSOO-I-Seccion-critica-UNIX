@@ -13,7 +13,7 @@ La particularidad de este programa radica en que el único mecanismo de comuncia
 
 Para ejecutar este programa se requerira de una distribución del Sistema Operativo **GNU/Linux**.    
 
-Para poder compilar correctamente el programa, se deberá tener instalada una version del compilador gcc o similar. En el caso de no tener gcc, se puede instalar facilmente con el sigueinte comando:
+Para poder compilar correctamente el programa, se deberá tener instalada una version del compilador gcc o similar. En el caso de no tener gcc, se puede instalar facilmente con el siguiente comando:
 
 ```sudo apt install gcc```
 
@@ -39,7 +39,7 @@ Si los parámetros introducidos no respetan las reglas anteriores, el programa l
 
 **Paso 1: Compilar el programa**  
 
-Para ello se debe introducir el siguente comando:    
+Para ello se debe introducir el siguiente comando:    
 
 ```gcc lallevas.c -o lallevas```
 
