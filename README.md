@@ -55,9 +55,13 @@ Tras ejecutar este comando, el programa se habra ejecutado correctamente, siempr
 
 # - Ejemplo de ejecución
 
+## Modo depuracíon
+
 En la siguiente imagen, se muestra un ejemplo del uso y funcionamiento del programa en el modo de depuración:    
 
 ![Ejemplo ejecucion lallevas 1](https://github.com/rmelgo/SSOO-I-Seccion-critica-UNIX/assets/145989723/a70d4077-3c47-4e50-b2bb-597b33f2ff75)
+
+## Modo normal
 
 En la siguiente imagen, se muestra un ejemplo del uso y funcionamiento del programa en el modo normal:    
 
