@@ -7,7 +7,7 @@ Proyecto realizado en la asignatura de SSOO I del grado de Ingenieria Informáti
 http://avellano.usal.es/~labssoo/pract109.htm
   
 El principal objetivo de este proyecto es la realización de un programa en C que simule la entrada y salida de procesos en una sección crítica. 
-La particularidad de este programa radica en que el único mecanismo de comunciación entre procesos permitido para implementar la sección crítica es el envio de señales.
+La particularidad de este programa radica en que el único mecanismo de comunicación entre procesos permitido para implementar la sección crítica es el envio de señales.
 
 # - Comentarios sobre el entorno de ejecución
 
