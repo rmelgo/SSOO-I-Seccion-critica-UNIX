@@ -2,7 +2,7 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de SSOO I del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra en el siguiente enlace:  
+Proyecto realizado en la asignatura de ***SSOO I*** del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra en el siguiente enlace:  
 
 http://avellano.usal.es/~labssoo/pract109.htm
   
@@ -11,9 +11,9 @@ La particularidad de este programa radica en que el único mecanismo de comunica
 
 # - Comentarios sobre el entorno de ejecución
 
-Para ejecutar este programa se requerira de una distribución del Sistema Operativo **GNU/Linux**.    
+Para ejecutar este programa, se requerirá de una distribución del Sistema Operativo **GNU/Linux**.    
 
-Para poder compilar correctamente el programa, se deberá tener instalada una version del compilador gcc o similar. En el caso de no tener gcc, se puede instalar facilmente con el siguiente comando:
+Para poder compilar correctamente el programa, se deberá tener instalada una versión del compilador gcc o similar. En el caso de no tener gcc, se puede instalar facilmente con el siguiente comando:
 
 ```sudo apt install gcc```
 
@@ -39,7 +39,7 @@ Si los parámetros introducidos no respetan las reglas anteriores, el programa l
 
 **Paso 1: Compilar el programa**  
 
-Para ello se debe introducir el siguiente comando:    
+Para ello, se debe introducir el siguiente comando:    
 
 ```gcc lallevas.c -o lallevas```
 
@@ -47,7 +47,7 @@ Tras ejecutar este comando, se generará un fichero ejecutable llamado *lallevas
 
 **Paso 2: Ejecutar el programa**  
 
-Para ello se debe introducir el siguente comando:    
+Para ello, se debe introducir el siguente comando:    
 
 ```./lallevas 6```
 
@@ -66,3 +66,10 @@ En la siguiente imagen, se muestra un ejemplo del uso y funcionamiento del progr
 En la siguiente imagen, se muestra un ejemplo del uso y funcionamiento del programa en el modo normal:    
 
 ![Ejemplo ejecucion lallevas 2](https://github.com/rmelgo/SSOO-I-Seccion-critica-UNIX/assets/145989723/3ffe78dc-5954-42fa-815f-472b41c12d82)
+
+# - Participantes
+
+<table>
+  <td align="center"><a href="https://github.com/rmelgo"><img src="https://avatars.githubusercontent.com/u/145989723?s=400&u=e5c06adba3f3c418207178abc845d398b3d5f77f&v=4" width="100px;" alt=""/><br /><sub><b>Raúl Melgosa</b></sub></a><br/> 
+  <td align="center"><img src="https://avatars.githubusercontent.com/u/84237179?v=4" width="100px;" alt=""/><br /><sub><b>Jessica Solís</b></sub></a><br/> 
+</table>
